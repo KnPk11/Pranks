@@ -1,1 +1,2 @@
-# Pranks
+A couple of harmless pranks...
+The ahk scripts would need to be compiled to executables to be able to run on other computers without ahk installed
